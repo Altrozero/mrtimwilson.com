@@ -19,4 +19,4 @@ Check out the design on printables: [https://www.printables.com/model/784923-lig
 
 Update 28th of Feb 2023: The handle on this broke, it took almost 5 months. It was printed with a 30% infill and in hindsight it should have been printed with 100%. Fortunatly they are now old enough to reach. 
 
-![A Lightswitch extender](/assets/images/posts/lightswith-extender.png)
+![A Lightswitch extender](/assets/images/posts/lightswitch-extender.png)
